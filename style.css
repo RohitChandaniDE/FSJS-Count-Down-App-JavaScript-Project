@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	max-width: 90rem;
+    margin: auto;
+}
+
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+	margin-top: 250px;
+	width: 1000px;
+	height: 230px;
+	background: linear-gradient(#e66465, #9198e5);
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+form {
+	margin-top: 30px;
+}
+
+#countdown {
+	font-size: 48px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
